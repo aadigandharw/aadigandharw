@@ -1,68 +1,98 @@
-<h1 align="center">Hi 👋, I'm Aditya Gandharv</h1>
-<h3 align="center">Full Stack Developer | React + Python | Passionate About Building Scalable Web Apps</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gandharv;Full+Stack+Web+Developer+from+India;React+%2B+Django+Lover;Let's+Build+Together+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadigandharw&theme=onedark" alt="trophies" />
+  <img src="https://komarev.com/ghpvc/?username=aadigandharw&label=Profile%20views&color=0e75b6&style=flat" alt="aadigandharw" />
 </p>
 
-- 🔭 I’m currently working on **React + Django Projects**
-- 🌱 Currently leveling up with **Backend APIs & Full Stack Architecture**
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/aadigandharw?tab=repositories)
-- 📫 Reach me at: **aadigandharw22@gmail.com**
-- ⚡ Fun fact: **"I debug more than I code!"**
+---
+
+### 🚀 About Me
+
+- 🔭 Currently working on: **ShreeTalk – Live project with WhatsApp & Google Sheets Integration**
+- 🌱 Learning: **React + Django + APIs**
+- 🧠 Passionate about: **Frontend Development & Full Stack Projects**
+- 📫 Email me at: **aadigandharw22@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun Fact: I love building **cool UIs** from scratch!
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description | Stack | Link |
-|--------|-------------|-------|------|
-| [ShreeTalk](https://github.com/aadigandharw/ShreeTalk) | A real-time live chat platform integrated with Google Sheets & WhatsApp | `React`, `JavaScript`, `Google Apps Script` | 🌐 [Live Site](https://shreetalk.in) |
-| [Bright Future](https://github.com/aadigandharw/Bright_Future) | Education service platform UI that includes learning, live chat, and responsive sections | `HTML`, `CSS`, `JS`, `Bootstrap` | 🎓 UI/UX Showcase |
-| [Marksheet Page](https://github.com/aadigandharw/MarksheetPage) | Dynamic marksheet calculator using JavaScript and DOM | `JavaScript`, `HTML`, `CSS` | 📄 Auto-grade Project |
-| [Congorise WebDev](https://github.com/aadigandharw/Congorise_Webdev) | Responsive website landing page for a tech company (clone) | `HTML`, `CSS`, `JavaScript`, `Bootstrap` | 🧩 UI-focused Build |
-| [SpotifyPro Clone](https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone) | A mini clone of Spotify built for practicing audio controls and design | `HTML`, `CSS`, `JavaScript` | 🎵 Music Player |
-| [QR Code Generator](https://github.com/aadigandharw/Qrcode-Generetor) | Generate QR codes for any URL or text input using an external API | `HTML`, `CSS`, `JavaScript`, `QR API` | 🔗 Instant QR Tool |
-
----
-
-### 🛠 Tech Stack
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-
-**Backend & DB:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+### 🌍 Connect with me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadigandharw&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadigandharw&layout=compact&theme=radical" alt="langs" />
+  <a href="https://www.linkedin.com/in/aditya-gandharv/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/coder.aditya" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@aadigandharw22" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/aadigandharw22" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aadi_gandharw/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🌟 Featured Project – [ShreeTalk](https://shreetalk.in)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-gandharv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/coder.aditya" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@aadigandharw22" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/aadigandharw22" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/aadi_gandharw" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+🟢 **Live Website:** [shreetalk.in](https://shreetalk.in)  
+🛠 Built using **React**, integrated with **Google Sheets API**, and **WhatsApp Chat Button**  
+🚀 Real-time usage + deployed version
+
+---
+
+### 🔥 Top Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎯 [Bright Future](https://github.com/aadigandharw/Bright_Future) | Frontend website with modern UI |
+| 📊 [Marksheet Page](https://github.com/aadigandharw/MarksheetPage) | Simple UI to generate marksheets |
+| 🌐 [Congorise WebDev](https://github.com/aadigandharw/Congorise_Webdev) | Full website structure with clean layout |
+| 🎵 [Spotify Pro Clone](https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone) | React-based Spotify UI clone |
+| 📱 [QR Code Generator](https://github.com/aadigandharw/Qrcode-Generetor) | QR code generator using React |
+
+---
+
+### 🧰 Tech Stack
+
+```md
+💡 HTML • CSS • JavaScript • React • Python • Django • Git • Figma • Canva • Firebase • Bootstrap
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,firebase,git,figma,bootstrap" />
 </p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadigandharw&show_icons=true&theme=midnight-purple" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadigandharw&layout=compact&theme=midnight-purple" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadigandharw&theme=dracula" />
+</p>
+
+---
+
+### 🎯 Quote of the Day
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+### 🙌 Thank You for Visiting My Profile!
+
+<p align="center">If you like my work, don’t forget to ⭐ the repositories!<br>Let’s connect and collaborate 🤝</p>
