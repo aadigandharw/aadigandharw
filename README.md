@@ -49,7 +49,6 @@
 ### 🔥 Top Projects
 
 | Project | Description |🟢 Live Website
-|--------|-------------|
 | 🎯 [Bright Future](https://github.com/aadigandharw/Bright_Future) | Frontend website with modern UI | https://aadigandharw.github.io/Bright_Future/
 | 📊 [Marksheet Page](https://github.com/aadigandharw/MarksheetPage) | Simple UI to generate marksheets | https://aadigandharw.github.io/MarksheetPage/#courses
 | 🌐 [Congorise WebDev](https://github.com/aadigandharw/Congorise_Webdev) | Full website structure with clean layout |
