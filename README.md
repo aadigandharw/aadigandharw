@@ -38,24 +38,27 @@
 
 ---
 
-### 🌟 Featured Project – [ShreeTalk](https://shreetalk.in)
 
-🟢 **Live Website:** [shreetalk.in](https://shreetalk.in)  
-🛠 Built using **React**, integrated with **Google Sheets API**, and **WhatsApp Chat Button**  
-🚀 Real-time usage + deployed version
 
----
+### 🔥 Live Projects
 
-### 🔥 Top Projects
+| Project | Description | 🔗 Live Website |
+|--------|-------------|----------------|
+| 💬 **ShreeTalk** | Real-time chat app with Google Sheets & WhatsApp integration | [Visit Site](https://shreetalk.in) |
+| 🎯 **Bright Future** | Frontend website with modern UI | [Visit Site](https://aadigandharw.github.io/Bright_Future/) |
+| 🧾 **Marksheet Page** | Simple UI to generate marksheets | [Visit Site](https://aadigandharw.github.io/MarksheetPage/#courses) |
 
-| Project | Description |🟢 Live Website
-| 🎯 [Bright Future](https://github.com/aadigandharw/Bright_Future) | Frontend website with modern UI | https://aadigandharw.github.io/Bright_Future/
-| 📊 [Marksheet Page](https://github.com/aadigandharw/MarksheetPage) | Simple UI to generate marksheets | https://aadigandharw.github.io/MarksheetPage/#courses
-| 🌐 [Congorise WebDev](https://github.com/aadigandharw/Congorise_Webdev) | Full website structure with clean layout |
-| 🎵 [Spotify Pro Clone](https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone) | React-based Spotify UI clone |
-| 📱 [QR Code Generator](https://github.com/aadigandharw/Qrcode-Generetor) | QR code generator using React |
+
 
 ---
+
+### 🚀 Top GitHub Projects
+
+| Project | Description | Repository Link |
+|--------|-------------|-----------------|
+| 🌐 **Congorise WebDev** | Full website structure with clean layout | [GitHub](https://github.com/aadigandharw/Congorise_Webdev) |
+| 🎵 **Spotify Pro Clone** | React-based Spotify UI clone | [GitHub](https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone) |
+| 📲 **QR Code Generator** | QR code generator using React | [GitHub](https://github.com/aadigandharw/Qrcode-Generetor) |
 
 ### 🧰 Tech Stack
 
