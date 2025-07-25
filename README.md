@@ -16,7 +16,7 @@
 - 🧠 Passionate about: **Frontend Development & Full Stack Projects**
 - 📫 Email me at: **aadigandharw22@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun Fact: I love building **cool UIs** from scratch!
+- ⚡ Fun Fact: I Debug More Than I Code🧑‍💻
 
 ---
 
