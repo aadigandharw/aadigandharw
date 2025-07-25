@@ -17,11 +17,12 @@
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| [ShreeTalk](https://github.com/aadigandharw/ShreeTalk) | A live chat platform integrated with WhatsApp + Google Sheets | `React`, `JavaScript`, `Google Apps Script` | 🌐 [Live Site](https://shreetalk.in) |
-| [Expense Tracker](https://github.com/aadigandharw/Expense_Tracker) | Real-time expense manager with chart visualization | `React`, `Chart.js`, `LocalStorage` | 🧾 Personal Finance Tool |
-| [Weather App](https://github.com/aadigandharw/Weather_App) | Displays current weather using OpenWeather API | `JavaScript`, `HTML`, `CSS` | ☁️ API Integration |
-| [Analog Clock](https://github.com/aadigandharw/Analog_Clock) | Beautiful animated analog clock | `HTML`, `CSS`, `JavaScript` | 🕒 Clean UI Focus |
-| [Bulb ON/OFF](https://github.com/aadigandharw/Bulb-On-Off) | A beginner-friendly DOM project | `JavaScript`, `DOM` | 💡 Fun Project |
+| [ShreeTalk](https://github.com/aadigandharw/ShreeTalk) | A real-time live chat platform integrated with Google Sheets & WhatsApp | `React`, `JavaScript`, `Google Apps Script` | 🌐 [Live Site](https://shreetalk.in) |
+| [Bright Future](https://github.com/aadigandharw/Bright_Future) | Education service platform UI that includes learning, live chat, and responsive sections | `HTML`, `CSS`, `JS`, `Bootstrap` | 🎓 UI/UX Showcase |
+| [Marksheet Page](https://github.com/aadigandharw/MarksheetPage) | Dynamic marksheet calculator using JavaScript and DOM | `JavaScript`, `HTML`, `CSS` | 📄 Auto-grade Project |
+| [Congorise WebDev](https://github.com/aadigandharw/Congorise_Webdev) | Responsive website landing page for a tech company (clone) | `HTML`, `CSS`, `JavaScript`, `Bootstrap` | 🧩 UI-focused Build |
+| [SpotifyPro Clone](https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone) | A mini clone of Spotify built for practicing audio controls and design | `HTML`, `CSS`, `JavaScript` | 🎵 Music Player |
+| [QR Code Generator](https://github.com/aadigandharw/Qrcode-Generetor) | Generate QR codes for any URL or text input using an external API | `HTML`, `CSS`, `JavaScript`, `QR API` | 🔗 Instant QR Tool |
 
 ---
 
