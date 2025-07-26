@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gandharv;Full+Stack+Web+Developer+from+India;React+%2B+Django+Lover;Let's+Build+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gandharv;Full+Stack+Web+Developer;React+%2B+Django+Lover;Let's+Build+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ---
