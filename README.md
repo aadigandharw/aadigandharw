@@ -6,10 +6,8 @@
 ---
 
 ### 🚀 About Me
-
-- 🔭 Currently working on: **ShreeTalk – Live project with WhatsApp & Google Sheets Integration**
 - 🌱 Learning: **React + Django + APIs**
-- 🧠 Passionate about: **Frontend Development & Full Stack Projects**
+- 🧠 Passionate about: **Full Stack Web-Developer**
 - 📫 Email me at: **aadigandharw22@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun Fact: I Debug More Than I Code🧑‍💻
