@@ -1,71 +1,89 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aditya+Gandharv;Software+Trainee+Engineer;Full+Stack+Web+Developer;React+⚛️+%2B+Django+🐍+Developer;Building+Real+World+Products+🚀" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gandharv;Full+Stack+Web+Developer;React+%2B+Django+Lover;Let's+Build+Together+%F0%9F%9A%80"
+    alt="Typing SVG"
+  />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadigandharw&label=Profile%20Views&color=6a5acd&style=flat-square" />
-</p>
 
 ---
 
 ## 🚀 About Me  
 
-👨‍💻 **Software Trainee Engineer (Paid)**  
-🏢 *Eactive Technologies, Raipur*  
-
+👨‍💻 **Software Engineer**  
 - 🔥 Full Stack Developer with **real production experience**
 - ⚙️ Backend-focused with **Django, Django REST & ERPNext (Frappe)**
 - 🧠 Love solving **real business problems**, not just tutorials
-- 🌱 Currently improving **API design, databases & system optimization**
-- ⚡ Fun fact: *I debug more than I code — and I enjoy it 😄*
+- 🌱 Improving **API design, databases & system optimization**
+- ⚡ Fun fact: *I debug more than I code 😄*
 
-📫 **Email:** aadigandharw22@gmail.com  
+📫 **Email:** aadigandharw22@gmail.com <br>
+😼 **Profile:** https://aditya-gandharv.vercel.app/ <br>
+📝 **Linkdln:** https://www.linkedin.com/in/aditya-gandharv/
+
 
 ---
 
 ## 💼 Experience  
 
-### 🏢 Software Trainee Engineer (Paid)  
-**Eactive Technologies | Nov 2025 – Present | Raipur**
+### 🏢 Software Engineering Trainee (Full-time)  
+**Eactive Technologies | Nov 2025 – Feb 2026 | Raipur, Chhattisgarh (On-site)**  
+*Frappe & ERPNext*
 
-- 🔧 Customized **ERPNext (Frappe)** backend using **Python & SQL**
-- 📊 Built **Script Reports** using Parent–Child DocType joins
+- 🔧 ERPNext (Frappe) backend customization using **Python & SQL**
+- 📊 Built **Script Reports** with Parent–Child DocType joins
 - 🧾 Designed dynamic **Print Formats** using **Jinja + HTML/CSS**
-- 🐞 Debugged server-side issues & worked with senior developers
-- 🚀 Delivered features aligned with real business requirements
+- 🐞 Debugged server-side issues and optimized queries
+- 🤝 Collaborated with senior engineers on real business requirements
 
 ---
 
-### 💻 Full Stack Web Developer (Unpaid Internship)  
-**YashviTech IT Solutions Pvt Ltd | May 2025 – Nov 2025 | Raipur**
+### 💻 React Django Full Stack Web Development (Internship)  
+**YashviTech IT Solutions Pvt Ltd | May 2025 – Nov 2025 | Raipur (On-site)**  
 
-- ⚛️ React frontend & 🐍 Django backend development
-- 🔐 Built **authentication & business APIs**
-- 🌍 Worked on **live production project**
-- 🏠 Built **Hominex** — a complete React + Django web application
+- ⚛️ Developed frontend using **React.js**
+- 🐍 Built backend APIs using **Django**
+- 🔐 Implemented authentication & business logic
+- 🌍 Worked on **live production web projects**
+- 🏠 Built **Hominex** as a complete React + Django application
+
+---
+
+### 🐍 Python Developer (Internship – Remote)  
+**Infosys Springboard | Jul 2025 – Sep 2025**
+
+- 🧠 Strengthened core **Python programming** concepts
+- 🧩 Worked on problem-solving and logical coding tasks
+- 📚 Gained hands-on exposure to real-world Python use cases
 
 ---
 
-## 🧠 Training  
+### 🅰️ Angular Developer (Internship – Remote)  
+**Infosys Springboard | Aug 2024 – Nov 2024**
 
-### 🐍 Advanced Python (Vocational Training)  
-**Sensible Academy | Bhilai**
-
-- Core Python, scripting & automation
-- Clean code practices & libraries
-- Problem-solving with real scenarios
+- 🅰️ Built frontend components using **Angular**
+- 🎨 Worked with **Bootstrap** for responsive UI
+- ⏱️ Improved time management & project structuring skills
 
 ---
+
+### 🌐 Web Development Intern (Remote)  
+**Bharat Intern | May 2024**
+
+- 🌍 Built basic web projects using **HTML, CSS & JavaScript**
+- 🧱 Learned fundamentals of frontend development
+- 🚀 Gained first industry exposure in web development
+
 
 ## 🔥 Live Projects  
 
 | 🚀 Project | 📝 Description | 🔗 Live |
 |-----------|---------------|--------|
-| 😼 **Portflio** | Represent Who I Am | [Visit](https://aditya-gandharv.vercel.app/) |
-| 💬 **ShreeTalk** | React-based live UI for production app | [Visit](https://shreetalk.in) |
+| 😼 **Portfolio** | Represent Who I Am | https://aditya-gandharv.vercel.app/ |
+| 💬 **ShreeTalk** | React-based live UI | https://shreetalk.in |
 | 🏠 **Hominex** | Full Stack App (React + Django REST) | In Progress |
-| 🎯 **Bright Future** | Modern frontend website | [Visit](https://aadigandharw.github.io/Bright_Future/) |
-| 🧾 **Marksheet Generator** | Simple UI project | [Visit](https://aadigandharw.github.io/MarksheetPage/#courses) |
+| 🎯 **Bright Future** | Modern frontend website | https://aadigandharw.github.io/Bright_Future/ |
+| 🧾 **Marksheet Generator** | Simple UI project | https://aadigandharw.github.io/MarksheetPage/#courses |
 
 ---
 
@@ -74,41 +92,109 @@
 | ⭐ Project | 📌 Tech | 🔗 Repo |
 |---------|--------|-------|
 | 🏠 **Hominex** | React, Django, REST API | Private / Ongoing |
-| 🎵 **Spotify Pro Clone** | React | [GitHub](https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone) |
-| 📲 **QR Code Generator** | React | [GitHub](https://github.com/aadigandharw/Qrcode-Generetor) |
-| 🌐 **Congorise WebDev** | HTML, CSS, JS | [GitHub](https://github.com/aadigandharw/Congorise_Webdev) |
+| 🎵 **Spotify Pro Clone** | React | https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone |
+| 📲 **QR Code Generator** | React | https://github.com/aadigandharw/Qrcode-Generetor |
+| 🌐 **Congorise WebDev** | HTML, CSS, JS | https://github.com/aadigandharw/Congorise_Webdev |
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/ERPNext-0A0A0A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
 
 ---
 
 ## 🧰 Tech Stack  
 
 ### 💻 Languages & Frameworks
-```txt
-Python 🐍 | JavaScript ⚡  
-Django | Django REST Framework  
-React ⚛️ | ERPNext (Frappe)
+- Python 🐍  
+- JavaScript ⚡  
+- Django  
+- Django REST Framework  
+- React ⚛️  
+- ERPNext (Frappe)  
 
-🎨 Frontend
-HTML5 | CSS3 | Bootstrap
+### 🎨 Frontend
+- HTML5  
+- CSS3  
+- Bootstrap  
 
-🗄️ Databases
-PostgreSQL | MariaDB | MySQL
+### 🗄️ Databases
+- PostgreSQL  
+- MariaDB  
+- MySQL  
 
-🛠️ Tools & Concepts
-Git & GitHub | REST APIs
-Authentication & Authorization
-Script Reports | Print Formats
+### 🛠️ Tools & Concepts
+- Git & GitHub  
+- REST APIs  
+- Authentication & Authorization  
+- Script Reports  
+- Print Formats  
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,postgres,mysql,git,figma" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,postgres,mysql,git,figma" />
+</p>
 
-🌍 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/aditya-gandharv/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/aadigandharw" target="_blank"> <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github" /> </a> <a href="mailto:aadigandharw22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" /> </a> </p>
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aadigandharw&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadigandharw&layout=compact&theme=tokyonight" width="48%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadigandharw&theme=tokyo-night" /> </p>
+## 🌍 Connect With Me  
 
-💬 Quote I Believe In
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-gandharv/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/aadigandharw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:aadigandharw22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-“First, solve the problem. Then, write the code.”
+---
 
-<p align="center"> ✨ Thanks for visiting my profile! ⭐ If you like my work, star the repositories 🤝 Open to collaboration & opportunities 🚀 Let’s build something impactful </p> ```
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadigandharw&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadigandharw&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadigandharw&theme=tokyo-night" />
+</p>
+
+---
+
+### 💬 Quote I Believe In  
+
+> “First, solve the problem. Then, write the code.”
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile!  
+⭐ If you like my work, star the repositories  
+🤝 Open to collaboration & opportunities  
+🚀 Let’s build together  
+</p>
