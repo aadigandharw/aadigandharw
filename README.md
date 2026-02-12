@@ -4,8 +4,9 @@
     alt="Typing SVG"
   />
 </h1>
-
-
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif" height="400px" width="100%"/>
+</p>
 ---
 
 ## 🚀 About Me  
