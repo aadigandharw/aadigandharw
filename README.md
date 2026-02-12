@@ -1,13 +1,12 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gandharv;Full+Stack+Web+Developer;React+%2B+Django+Lover;Let's+Build+Together+%F0%9F%9A%80"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gandharv;Full+Stack+Web+Developer;React%20%2B%20Django%20%2B%20Database;Let's+Build+Together+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </h1>
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif" height="400px" width="100%"/>
 </p>
----
 
 ## 🚀 About Me  
 
@@ -22,8 +21,6 @@
 😼 **Profile:** https://aditya-gandharv.vercel.app/ <br>
 📝 **Linkdln:** https://www.linkedin.com/in/aditya-gandharv/
 
-
----
 
 ## 💼 Experience  
 
@@ -48,8 +45,6 @@
 - 🌍 Worked on **live production web projects**
 - 🏠 Built **Hominex** as a complete React + Django application
 
----
-
 ### 🐍 Python Developer (Internship – Remote)  
 **Infosys Springboard | Jul 2025 – Sep 2025**
 
@@ -57,7 +52,6 @@
 - 🧩 Worked on problem-solving and logical coding tasks
 - 📚 Gained hands-on exposure to real-world Python use cases
 
----
 
 ### 🅰️ Angular Developer (Internship – Remote)  
 **Infosys Springboard | Aug 2024 – Nov 2024**
@@ -66,7 +60,6 @@
 - 🎨 Worked with **Bootstrap** for responsive UI
 - ⏱️ Improved time management & project structuring skills
 
----
 
 ### 🌐 Web Development Intern (Remote)  
 **Bharat Intern | May 2024**
@@ -99,7 +92,6 @@
 | 📲 **QR Code Generator** | React | https://github.com/aadigandharw/Qrcode-Generetor |
 | 🌐 **Congorise WebDev** | HTML, CSS, JS | https://github.com/aadigandharw/Congorise_Webdev |
 
----
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -125,7 +117,6 @@
 </p>
 
 
----
 
 ## 🧰 Tech Stack  
 
@@ -158,7 +149,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,postgres,mysql,git,figma" />
 </p>
 
----
 
 ## 🌍 Connect With Me  
 
@@ -174,7 +164,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats  
 
@@ -182,13 +171,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadigandharw&theme=tokyo-night" />
 </p>
 
----
 
 ### 💬 Quote I Believe In  
 
 > “First, solve the problem. Then, write the code.”
 
----
 
 <p align="center">
 ✨ Thanks for visiting my profile!  
