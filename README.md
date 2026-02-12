@@ -80,6 +80,8 @@
 | 🚀 Project | 📝 Description | 🔗 Live |
 |-----------|---------------|--------|
 | 😼 **Portfolio** | Represent Who I Am | https://aditya-gandharv.vercel.app/ |
+| 📋 **Todo List** | To Plan And Preoritise Your Day | https://mytodolist.xo.je/ |
+| 👷‍♂️ **Contractor Profile** | A professional Contractor Bussiness Profile | https://yadavramgandharv.vercel.app/ | 
 | 💬 **ShreeTalk** | React-based live UI | https://shreetalk.in |
 | 🏠 **Hominex** | Full Stack App (React + Django REST) | In Progress |
 | 🎯 **Bright Future** | Modern frontend website | https://aadigandharw.github.io/Bright_Future/ |
