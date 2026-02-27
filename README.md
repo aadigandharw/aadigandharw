@@ -8,66 +8,6 @@
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif" height="400px" width="100%"/>
 </p>
 
-## 🚀 About Me  
-
-👨‍💻 **Software Engineer**  
-- 🔥 Full Stack Developer with **real production experience**
-- ⚙️ Backend-focused with **Django, Django REST & ERPNext (Frappe)**
-- 🧠 Love solving **real business problems**, not just tutorials
-- 🌱 Improving **API design, databases & system optimization**
-- ⚡ Fun fact: *I debug more than I code 😄*
-
-📫 **Email:** aadigandharw22@gmail.com <br>
-😼 **Profile:** https://aditya-gandharv.vercel.app/ <br>
-📝 **Linkdln:** https://www.linkedin.com/in/aditya-gandharv/
-
-
-## 💼 Experience  
-
-### 🏢 Software Engineering Trainee (Full-time)  
-**Eactive Technologies | Nov 2025 – Feb 2026 | Raipur, Chhattisgarh (On-site)**  
-*Frappe & ERPNext*
-
-- 🔧 ERPNext (Frappe) backend customization using **Python & SQL**
-- 📊 Built **Script Reports** with Parent–Child DocType joins
-- 🧾 Designed dynamic **Print Formats** using **Jinja + HTML/CSS**
-- 🐞 Debugged server-side issues and optimized queries
-- 🤝 Collaborated with senior engineers on real business requirements
-
----
-
-### 💻 React Django Full Stack Web Development (Internship)  
-**YashviTech IT Solutions Pvt Ltd | May 2025 – Nov 2025 | Raipur (On-site)**  
-
-- ⚛️ Developed frontend using **React.js**
-- 🐍 Built backend APIs using **Django**
-- 🔐 Implemented authentication & business logic
-- 🌍 Worked on **live production web projects**
-- 🏠 Built **Hominex** as a complete React + Django application
-
-### 🐍 Python Developer (Internship – Remote)  
-**Infosys Springboard | Jul 2025 – Sep 2025**
-
-- 🧠 Strengthened core **Python programming** concepts
-- 🧩 Worked on problem-solving and logical coding tasks
-- 📚 Gained hands-on exposure to real-world Python use cases
-
-
-### 🅰️ Angular Developer (Internship – Remote)  
-**Infosys Springboard | Aug 2024 – Nov 2024**
-
-- 🅰️ Built frontend components using **Angular**
-- 🎨 Worked with **Bootstrap** for responsive UI
-- ⏱️ Improved time management & project structuring skills
-
-
-### 🌐 Web Development Intern (Remote)  
-**Bharat Intern | May 2024**
-
-- 🌍 Built basic web projects using **HTML, CSS & JavaScript**
-- 🧱 Learned fundamentals of frontend development
-- 🚀 Gained first industry exposure in web development
-
 
 ## 🔥 Live Projects  
 
@@ -77,7 +17,7 @@
 | 📋 **Todo List** | To Plan And Preoritise Your Day | https://mytodolist.xo.je/ |
 | 👷‍♂️ **Contractor Profile** | A professional Contractor Bussiness Profile | https://yadavramgandharv.vercel.app/ | 
 | 💬 **ShreeTalk** | React-based live UI | https://shreetalk.in |
-| 🏠 **Hominex** | Full Stack App (React + Django REST) | In Progress |
+| 🏠 **Hominex** | Full Stack App (React + Django REST) | https://thehominex.com |
 | 🎯 **Bright Future** | Modern frontend website | https://aadigandharw.github.io/Bright_Future/ |
 | 🧾 **Marksheet Generator** | Simple UI project | https://aadigandharw.github.io/MarksheetPage/#courses |
 
