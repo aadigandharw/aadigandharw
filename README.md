@@ -27,7 +27,7 @@
 
 | ⭐ Project | 📌 Tech | 🔗 Repo |
 |---------|--------|-------|
-| 🏠 **Hominex** | React, Django, REST API | Private / Ongoing |
+| 🏠 **Hominex** | React, Django, REST API | https://www.thehominex.com/ |
 | 🎵 **Spotify Pro Clone** | React | https://github.com/aadigandharw/Spotify-Clone/tree/main/SpotifyProClone |
 | 📲 **QR Code Generator** | React | https://github.com/aadigandharw/Qrcode-Generetor |
 | 🌐 **Congorise WebDev** | HTML, CSS, JS | https://github.com/aadigandharw/Congorise_Webdev |
