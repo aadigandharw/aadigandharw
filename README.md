@@ -13,11 +13,13 @@
 
 | 🚀 Project | 📝 Description | 🔗 Live |
 |-----------|---------------|--------|
+| 🏠 **Hominex** | Full Stack App (React + Django REST) | https://thehominex.com |
 | 😼 **Portfolio** | Represent Who I Am | https://aditya-gandharv.vercel.app/ |
+| 🖨️ **OmJai Lok Sewa Kendra** | Freelancing Project | https://om-jay-csc.vercel.app/ |
+| 🥳 **Eventora** | Mern Stack Project | https://eventorain.vercel.app/ |
 | 📋 **Todo List** | To Plan And Preoritise Your Day | https://mytodolist.xo.je/ |
 | 👷‍♂️ **Contractor Profile** | A professional Contractor Bussiness Profile | https://yadavramgandharv.vercel.app/ | 
 | 💬 **ShreeTalk** | React-based live UI | https://shreetalk.in |
-| 🏠 **Hominex** | Full Stack App (React + Django REST) | https://thehominex.com |
 | 🎯 **Bright Future** | Modern frontend website | https://aadigandharw.github.io/Bright_Future/ |
 | 🧾 **Marksheet Generator** | Simple UI project | https://aadigandharw.github.io/MarksheetPage/#courses |
 
@@ -66,8 +68,9 @@
 - JavaScript ⚡  
 - Django  
 - Django REST Framework  
-- React ⚛️
-- Express
+- ReactJs ⚛️
+- ExpressJs
+- NodeJs
 - ERPNext (Frappe)  
 
 ### 🎨 Frontend
@@ -78,14 +81,18 @@
 ### 🗄️ Databases
 - PostgreSQL  
 - MariaDB  
-- MySQL  
+- MySQL
+- MongoDB
+  
 
 ### 🛠️ Tools & Concepts
 - Git & GitHub  
 - REST APIs  
 - Authentication & Authorization  
 - Script Reports  
-- Print Formats  
+- Print Formats
+- Payment Gateway
+- 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,postgres,mysql,git,figma" />
